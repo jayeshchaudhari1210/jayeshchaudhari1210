@@ -19,8 +19,9 @@ This is my main workspace for personal and professional software, learning, inde
 | Project | What it explores | Current stage |
 | :--- | :--- | :--- |
 | [**Aiwork**](https://github.com/jayeshchaudhari1210/Aiwork) | Python task/agent workflows, dependencies, retries, and guardrails | Alpha local core; several external integrations are prototypes/placeholders |
-| [**Smart File Manager**](https://github.com/jayeshchaudhari1210/Smart-File-Manager) | Desktop file navigation, tagging, and copy operations | Early application; platform support and file-operation reliability need improvement |
+| [**Smart File Manager**](https://github.com/jayeshchaudhari1210/Smart-File-Manager) | Desktop file navigation, tagging, and copy operations | Early application; content/Trash regression tests added, full cross-platform GUI validation pending |
 | [**SATHI / Manodarsh**](https://github.com/DurgeshBhusnale/manodarsh_v2) | Collaborative questionnaire/dashboard software; contribution and attribution notes below | Team prototype; no clinical-effectiveness or official employment claims |
+| **BorderShield** — [overview](https://jayeshchaudhari1210.github.io/portfolio/#bordershield) | Local recorded-video detection/tracking research prototype | Source remains local; backend/dashboard and field validation are future work |
 | [**Sentimeter**](https://github.com/jayeshchaudhari1210/sentimeter) | API concepts, examples, and product documentation | Documentation work; advertised sentiment application is not implemented in this repository |
 
 See [my contribution notes and public commit evidence](CONTRIBUTIONS.md), including the development-account attribution context for SATHI. Project histories retain their original authors, teammates and automation; see each repository for implementation details and limitations.

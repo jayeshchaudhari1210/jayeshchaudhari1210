@@ -18,7 +18,7 @@ The application's source/assets upload and subsequent GUI edits are recorded und
 - [Source and asset upload](https://github.com/jayeshchaudhari1210/Smart-File-Manager/commit/46db60e712e058ac79c7e017f1ca7bc3235e678f): GUI module, extension helper, icons, requirements and tag-data file.
 - [Subsequent GUI edit](https://github.com/jayeshchaudhari1210/Smart-File-Manager/commit/ba9a74e6e844d749f2eebe54da0f357825bb20f5).
 
-This is an early desktop application. The README documents platform limits, filename-based duplicate selection and permanent deletion behavior. No claim of verified cross-platform reliability or exclusive unaided authorship is made.
+This is an early desktop application. The README documents platform limits, content-based duplicate comparison and recoverable Trash behavior. No claim of verified cross-platform reliability or exclusive unaided authorship is made.
 
 ## SATHI / Manodarsh — collaborative project
 
@@ -39,3 +39,7 @@ Team credit and original commit authorship are preserved. This public summary co
 ## Sentimeter
 
 Featured as documentation/specification work. The reviewed default branch has no sentiment-analysis application, model, dependency manifest or tests. Example predictions and APIs are illustrative rather than measured or deployed capabilities.
+
+## BorderShield
+
+Local final-year research prototype. The reviewed prototype documentation describes CPU processing of recorded video, temporary tracking IDs and annotated-video/metadata output. No private source/assets are published here. Backend/dashboard integration, physical sensors, field validation and performance/accuracy evaluation remain separate work.
