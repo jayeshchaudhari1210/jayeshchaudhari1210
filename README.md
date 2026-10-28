@@ -12,7 +12,7 @@
 
 I’m a software developer exploring **AI tools, web applications, and practical systems**. I’m interested in how interfaces, workflows, and the tools underneath them fit together—and what makes them useful.
 
-This is my professional workspace for selected projects and independent work. My personal experiments, setup, and learning exercises continue on [JayeshCC](https://github.com/JayeshCC).
+This is my main workspace for personal and professional software, learning, independent projects, and open-source interests. [JayeshCC](https://github.com/JayeshCC) is reserved for existing Oppidan collaboration and preserved historical work.
 
 ### Selected work
 
@@ -20,9 +20,10 @@ This is my professional workspace for selected projects and independent work. My
 | :--- | :--- | :--- |
 | [**Aiwork**](https://github.com/jayeshchaudhari1210/Aiwork) | Python task/agent workflows, dependencies, retries, and guardrails | Alpha local core; several external integrations are prototypes/placeholders |
 | [**Smart File Manager**](https://github.com/jayeshchaudhari1210/Smart-File-Manager) | Desktop file navigation, tagging, and copy operations | Early application; platform support and file-operation reliability need improvement |
+| [**SATHI / Manodarsh**](https://github.com/DurgeshBhusnale/manodarsh_v2) | Collaborative questionnaire/dashboard software; contribution and attribution notes below | Team prototype; no clinical-effectiveness or official employment claims |
 | [**Sentimeter**](https://github.com/jayeshchaudhari1210/sentimeter) | API concepts, examples, and product documentation | Documentation work; advertised sentiment application is not implemented in this repository |
 
-Project histories retain their original authors and collaborators. See each repository for implementation details and limitations.
+See [my contribution notes and public commit evidence](CONTRIBUTIONS.md), including the development-account attribution context for SATHI. Project histories retain their original authors, teammates and automation; see each repository for implementation details and limitations.
 
 ### Technical toolkit
 
