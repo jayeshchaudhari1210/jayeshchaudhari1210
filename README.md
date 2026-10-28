@@ -4,7 +4,7 @@
   <a href="https://jayeshchaudhari1210.github.io/portfolio/">Portfolio</a> ·
   <a href="https://drive.google.com/file/d/1ThGIr0xpbBz1rMcmM7Bd3WdZi626aH3j/view?usp=drivesdk">Résumé</a> ·
   <a href="https://github.com/jayeshchaudhari1210?tab=stars">Learning library</a> ·
-  <a href="https://www.linkedin.com/in/jayesh-chaudhari1210/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/jayeshchaudhari1210/">LinkedIn</a> ·
   <a href="mailto:jayeshchaudhari1210@gmail.com">Email</a>
 </p>
 
